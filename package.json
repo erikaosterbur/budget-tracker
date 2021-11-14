@@ -1,0 +1,21 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "Details and sample code for building a Progressive Web Application",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikaosterbur/budget-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erikaosterbur/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/erikaosterbur/budget-tracker#readme"
+}
