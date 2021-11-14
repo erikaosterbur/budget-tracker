@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/erikaosterbur/budget-tracker/issues"
   },
-  "homepage": "https://github.com/erikaosterbur/budget-tracker#readme"
+  "homepage": "https://github.com/erikaosterbur/budget-tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
